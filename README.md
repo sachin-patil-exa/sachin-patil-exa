@@ -5,3 +5,5 @@
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachin-patil-exa&custom_title=Sachin's+Github+Stats&count_private=true&show_icons=true&theme=darcula&title_color=ffc857&include_all_commits=true&icon_color=ffc857&hide_border=true&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-patil-exa&theme=darcula&langs_count=20&hide_border=true&layout=compact&text_color=daf7dc&title_color=ffc857&bg_color=151515&count_private=true&include_all_commits=true)](https://github.com/sachin-patil-exa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-patil-exa)](https://github.com/sachin-patil-exa/github-readme-stats)
